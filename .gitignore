@@ -1,0 +1,4 @@
+*.vscode/
+*.vscode/browse.vc.db
+*.vscode/c_cpp_properties.json
+*.vscode/settings.json
